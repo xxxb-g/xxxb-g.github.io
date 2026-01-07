@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: xxxb-g.github.io
-Token: 04a1f9aac58ae06ec6c8385c33e7389e6de264969d85cea1aed2b160bd97f591
+Token: e2445b4b99fe5bfea3efd36a0ac73f53a03afef5fde9c4e54a142a51afc8659a
